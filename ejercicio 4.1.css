@@ -1,0 +1,14 @@
+/*cambio el color del texto del h1 a azul oscuro*/
+h1{
+    color: darkblue:
+}
+/*aumento el tama;o del texto de la clase a 18px*/
+.destacado{
+    font-size:18px;
+    color:red;
+}
+/* aplico un estilo al enlace dentro del parrafo*/
+#informacion{
+    color: green;
+    text-decoration: underline;
+}
